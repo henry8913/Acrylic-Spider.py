@@ -4,6 +4,10 @@
 
 Acrylic-Spider.py è un progetto open-source che controlla un robot ragno dotato di un corpo fisico in acrilico. Questo robot è equipaggiato con **servomotori**, **sensori**, e un **mini PC Raspberry Pi** che funge da cervello per gestire i movimenti e le modalità operative. Grazie alla sua struttura modulare e al software avanzato, il robot può muoversi, esplorare, e interagire con l'ambiente in modo dinamico. 🚀
 
+<p align="center">
+    <img src="https://github.com/henry8913/Acrylic-Spider.py/blob/main/spider.jpg" alt="Cover" width="100%" />
+</p>
+
 ---
 
 ### Modalità Implementate
