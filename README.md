@@ -36,7 +36,7 @@ Acrylic-Spider.py è un progetto open-source che controlla un robot ragno dotato
 - **Caratteristiche:**
   - Stabilità migliorata grazie a calcoli dinamici.
 
-#### Respiro con i LED 🌈
+#### Respiro con i LED 🧘
 - **Descrizione:**
   Simula un effetto di respiro naturale utilizzando strisce LED WS2812.
 - **Caratteristiche:**
